@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Never Grow Up (Acoustic Version)",
+  "base_artist": "ちゃんみな",
+  "createdAt": "2025-12-13T10:09:58.801813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Grow Up - Acoustic Version",
+      "artist": "Chanmina",
+      "has_synced": true,
+      "path": "select/01_Never_Grow_Up_-_Acoustic_Version_Chanmina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Grow Up (Acoustic Version)",
+      "artist": "CHANMINA",
+      "has_synced": true,
+      "path": "select/02_Never_Grow_Up_(Acoustic_Version)_CHANMINA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Grow Up - Acoustic Version",
+      "artist": "CHANMINA",
+      "has_synced": true,
+      "path": "select/03_Never_Grow_Up_-_Acoustic_Version_CHANMINA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Grow Up (Acoustic Version)",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Grow_Up_(Acoustic_Version)_ちゃんみな.txt"
+    }
+  ]
+}
